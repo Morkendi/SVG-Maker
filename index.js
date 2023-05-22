@@ -28,7 +28,7 @@ inquirer
         },
     ])
     .then((response) => {
-        const svgPath = './dist/logo.svg';
+        const svgPath = './examples/logo.svg';
         const finalLogo = makeShape(data);
 
         // Generate SVG logo
