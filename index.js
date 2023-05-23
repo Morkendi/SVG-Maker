@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const {generateSVG } = require ('./lib/generateSvg');
+const {generateSVG} = require ('./lib/generateSvg');
 const {makeShape} = require ('./lib/makeShape');
 
 inquirer
@@ -27,7 +27,7 @@ inquirer
             choices: ['circle', 'square', 'triangle'],
         },
     ])
-    .then((response) => {
+    .then((data) => {
         const svgPath = './examples/logo.svg';
         const finalLogo = makeShape(data);
 
@@ -36,3 +36,4 @@ inquirer
         err ? console.log(err) : console.log('Successfully created logo!')
         );
     })
+    .catch((err) => console.log(err));
