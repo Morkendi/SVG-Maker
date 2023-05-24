@@ -38,7 +38,7 @@ If all questions are answered successfully, a message will appear confirming the
 ### Preview of generated SVG file <!-- omit in toc -->
 ![Example SVG Preview](./images/Preview.png)
 ### Showcase of testing suite <!-- omit in toc -->
-![Example of passed test]()
+![Example of passed test](./images/Tests.png)
 
 --- 
 
