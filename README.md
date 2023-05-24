@@ -37,6 +37,8 @@ If all questions are answered successfully, a message will appear confirming the
 ![Example SVG](./images/SVG.png)
 ### Preview of generated SVG file <!-- omit in toc -->
 ![Example SVG Preview](./images/Preview.png)
+### Showcase of testing suite <!-- omit in toc -->
+![Example of passed test]()
 
 --- 
 
@@ -49,4 +51,4 @@ This project utilizes an [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Links
 - Link to GitHub repo: (https://github.com/Morkendi/SVG-Maker)
-- Link to Video Demo: ()
+- Link to Video Demo: (https://drive.google.com/file/d/1tadB_qbowpfsU1ZPUg8jdFkbpnAE1vjF/view?usp=sharing)
