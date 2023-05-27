@@ -51,4 +51,4 @@ This project utilizes an [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Links
 - Link to GitHub repo: (https://github.com/Morkendi/SVG-Maker)
-- Link to Video Demo: (https://drive.google.com/file/d/1tadB_qbowpfsU1ZPUg8jdFkbpnAE1vjF/view?usp=sharing)
+- Link to Video Demo: (https://drive.google.com/file/d/1DEbTwl33-_zKfdBbrTEmGVVDk0szRO-4/view?usp=drive_link)
